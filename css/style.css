@@ -2,7 +2,7 @@ html {
   scroll-behavior: smooth; }
 
 body {
-  overflow-y: hidden; }
+  overflow-x: hidden; }
 
 .scrolling-active .navbar .nav-item .nav-link:hover {
   color: #4070f4 !important; }
